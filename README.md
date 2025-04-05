@@ -2,7 +2,8 @@
 
 ## About
 
-Simple Apple-like calculator clone built on wails using Go and React
+Simple Apple-like calculator clone built on wails using Go and React.
+This was created as a learning project so I could see how a full stack implementation using Go and React might look.
 
 ## Live Development
 
